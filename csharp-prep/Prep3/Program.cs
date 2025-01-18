@@ -55,7 +55,7 @@ class Program
         }
 
         Console.WriteLine();
-        Console.WriteLine($"The nuber was {randomNumber}.");
+        Console.WriteLine($"The number was {randomNumber}.");
         Console.WriteLine($"It took you {count} guess(es).");
     }
 }
